@@ -1,3 +1,7 @@
+*
+html {
+    background-color: lightblue;
+}
 form {
     align-items: center;
     justify-content: center;
@@ -97,3 +101,4 @@ p {
     font-size: large;
     font-weight: bold;
 }
+
